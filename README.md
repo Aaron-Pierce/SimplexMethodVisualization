@@ -38,5 +38,5 @@ I claimed earlier that it records all of the associated
 bases, when in reality it actually records the three 
 linearly independent constraints that intersect at that point.
 If I had better linear algebra tools, I could implement
-that faithfully, but all I can work with easily are 3 or 4 vectors,
+that faithfully, but all unity gives me are 3 or 4 vectors,
 and 4x4 matricies.
