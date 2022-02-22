@@ -1,5 +1,7 @@
 # Simplex Method Visualization
 
+(Super work in progress, only the first stage is complete as of this commit)
+
 I really have no idea how far I'll get with this, but I think the hard part is over.
 
 ![A polyhedron the program renders](./polyhedron_demo.gif)
