@@ -21,6 +21,8 @@ they intersect (if they intersect), and records the associated basic variables.
 
 After it generates a big list of sets of basic indicies,
 it finds adjacent bases and draws edges between them. 
+Those adjacent bases are ones which have exactly
+two indicies in common.
 
 It was very neat to just use the content I learned in optimization
 right off the bat, I figured I'd need a bunch of linear algebra just
